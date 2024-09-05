@@ -1,6 +1,6 @@
 # ModelComprehension
 
-##Description
+## Description
 
 This program's main goal is to take a pdf of software engineering diagrams and be able to pick out nodes/elements on these diagrams, find the center points of these nodes/elements, and put these center points through a Voronoi tessellation. Find the center points of the tessellation clusters and find the average distance standard deviation between these center points. 
 
