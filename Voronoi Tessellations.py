@@ -19,12 +19,6 @@ import pdf2image as p2i
 import pandas as pd
 import os
 
-#TODO
-#enter data into sheet table
-#create a natural language description
-# redo 14 odd cases that needed to be redo by hand
-#upload to github
-
 def pdf_2_image(pdf_file_location,pdf_name):
     pages = p2i.convert_from_path(pdf_file_location +'/'+pdf_name+'.pdf')
     for page in pages:
