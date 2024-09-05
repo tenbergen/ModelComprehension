@@ -1,5 +1,10 @@
 # ModelComprehension
 
+## Authors
+Proffesor Bastian Tenbergen
+Kritika Parajuli
+Thomas Marten
+
 ## Description
 
 This program's main goal is to take a pdf of software engineering diagrams and be able to pick out nodes/elements on these diagrams, find the center points of these nodes/elements, and put these center points through a Voronoi tessellation. Find the center points of the tessellation clusters and find the average distance standard deviation between these center points. 
@@ -17,4 +22,5 @@ This program's main goal is to take a pdf of software engineering diagrams and b
 * The program then finds the center points of the Voronoi tessellation clusters
 * The program then uses the center points from the previous step and calculates the average distance and standard deviation from the center points tessellation graph.
 
+## Sources
 
