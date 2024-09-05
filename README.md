@@ -23,15 +23,15 @@ This program's main goal is to take a pdf of software engineering diagrams and b
 * The program then uses the center points from the previous step and calculates the average distance and standard deviation from the center points tessellation graph.
 
 ## Sources
-https://hpaulkeeler.com/voronoi-dirichlet-tessellations/
-https://stackoverflow.com/questions/6230752/extracting-page-sizes-from-pdf-in-python
-https://www.geeksforgeeks.org/how-to-detect-shapes-in-images-in-python-using-opencv/
-https://www.geeksforgeeks.org/python-opencv-find-center-of-contour/
-https://www.geeksforgeeks.org/convert-pdf-to-image-using-python/
-https://stackoverflow.com/questions/51429596/centroidal-voronoi-tessellation
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.Voronoi.html#scipy.spatial.Voronoi
-https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
-https://www.w3schools.com/python/pandas/pandas_csv.asp
-https://www.tutorialspoint.com/how-to-write-a-single-line-in-text-file-using-python
-https://www.w3schools.com/python/python_ml_k-means.asp
+https://hpaulkeeler.com/voronoi-dirichlet-tessellations/ <br>
+https://stackoverflow.com/questions/6230752/extracting-page-sizes-from-pdf-in-python <br>
+https://www.geeksforgeeks.org/how-to-detect-shapes-in-images-in-python-using-opencv/ <br>
+https://www.geeksforgeeks.org/python-opencv-find-center-of-contour/ <br>
+https://www.geeksforgeeks.org/convert-pdf-to-image-using-python/ <br>
+https://stackoverflow.com/questions/51429596/centroidal-voronoi-tessellation <br>
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.Voronoi.html#scipy.spatial.Voronoi <br>
+https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html <br>
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html <br>
+https://www.w3schools.com/python/pandas/pandas_csv.asp <br>
+https://www.tutorialspoint.com/how-to-write-a-single-line-in-text-file-using-python <br>
+https://www.w3schools.com/python/python_ml_k-means.asp <br>
