@@ -1,9 +1,9 @@
 # ModelComprehension
 
 ## Authors
-Proffesor Bastian Tenbergen <br>
-Kritika Parajuli <br>
 Thomas Marten <br>
+Kritika Parajuli <br>
+Prof. Dr. Bastian Tenbergen <br>
 
 ## Description
 
